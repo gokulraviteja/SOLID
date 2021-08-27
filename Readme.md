@@ -5,7 +5,7 @@
 ![Link](solid.jpeg) 
 
 
-#### Note : Fell free to add more examples and correct violations. [22 examples](src/main/java/com/grt/solid)
+#### Note : Feel free to add more examples and correct violations. [22 examples](src/main/java/com/grt/solid)
 
 
 
