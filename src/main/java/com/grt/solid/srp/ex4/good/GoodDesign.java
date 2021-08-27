@@ -13,7 +13,8 @@ public class GoodDesign {
 
 
         priyanka.promoteEmployee(dev);
-        priyanka.fireEmployee(rahul);
+	priyanka.promoteEmployee(rahul);
+        priyanka.fireEmployee(occ);
         // irony
         int age = 0;
         while(age++!=100){
