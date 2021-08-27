@@ -1,0 +1,5 @@
+package com.grt.solid.isp.ex3.good;
+
+public interface ICircle {
+    void drawCircle();
+}
