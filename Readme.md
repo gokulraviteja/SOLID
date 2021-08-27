@@ -147,7 +147,7 @@ More extensibility -->  increase complexity .
 
 * Objects in a program should be replaceable with instances of their subtypes without altering the correctness of that program.
 
-* Derived types must be completely substitutable with the base types
+* Base types must be completely substitutable with the derived types
 
 * Basically, derived classes should never do less than their base class.
 
@@ -278,7 +278,7 @@ class SchoolAccount implements LocalAccount {
 
 * Create abstractions (Interfaces) using their roles and divide their responsibilities so that each client implementing these interfaces can use just about the right interface or combination of interfaces that describes their role/responsibilities.
 
-* Segragate interfaces into multiple , such that each interface ony focus on a single thing .
+* Segragate interfaces into multiple , such that each interface only focus on a single thing .
 
 #### It's ok i will make it simple 
 
